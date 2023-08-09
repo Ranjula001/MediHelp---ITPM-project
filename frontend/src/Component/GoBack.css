@@ -1,0 +1,25 @@
+.GoBack {
+    /* Button styles */
+    background-color: #0078D7;
+    color: #FFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 9999;
+  }
+  
+  .GoBack:hover {
+    /* Button hover styles */
+    background-color: #005A9E;
+  }
+  
+  .GoBack:active {
+    /* Button active styles */
+    background-color: #004C87;
+  }

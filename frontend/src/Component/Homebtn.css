@@ -1,0 +1,8 @@
+.homeBtn {
+    color: #007bff; /* icon color */
+    font-size: 2rem; /* icon size */
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1rem; /* optional margin */
+  }

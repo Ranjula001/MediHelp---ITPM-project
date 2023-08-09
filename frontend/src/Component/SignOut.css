@@ -1,0 +1,23 @@
+/* Assuming the class name for the sign-out button is "signOut" */
+.signOut {
+    color: #007bff; /* icon color */
+    font-size: 2rem; /* icon size */
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1rem; /* optional margin */
+  }
+  
+  .signOut button {
+    background-color: #e74c3c;
+    color: #0a40f1;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .signOut button:hover {
+    background-color: #c0392b;
+  }
+  
